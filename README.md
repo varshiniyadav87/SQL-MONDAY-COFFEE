@@ -1,6 +1,6 @@
 # ☕ SQL Monday Coffee Project  
 
-!(https://github.com/varshiniyadav87/SQL-MONDAY-COFFEE/blob/main/1.png?raw=true)
+!(https://github.com/varshiniyadav87/SQL-MONDAY-COFFEE/blob/main/1.png)
 
 ## Objective  
 The objective of this project is to **analyze sales data** for **Monday Coffee**, a company selling coffee products online since **January 2023**. The project aims to identify key insights from the sales data to **recommend the top three cities** in India with the highest potential for opening new coffee shop locations. The analysis focuses on factors such as **consumer demand** and **sales performance** across different cities, enabling strategic business decisions based on real-time data insights.
